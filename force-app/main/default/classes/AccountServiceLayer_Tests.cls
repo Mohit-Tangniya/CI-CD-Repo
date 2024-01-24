@@ -97,7 +97,7 @@ private inherited sharing class AccountServiceLayer_Tests {
                 'Expected the code to have incremented to 1'
             );
         }
-    }
+    }//added comments in the line 100
 
     @isTest
     static void incrementDescriptionOnBulkAccountsNegativeInvalidIntegerSaves() {
