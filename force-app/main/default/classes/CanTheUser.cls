@@ -50,8 +50,8 @@ public with sharing class CanTheUser {
          * @param objType String object name used as the cache key
          * @return       `Object`
          */
-        public Object doLoad(String objType) {
-            return calculateFLS(objType);
+        public Object doLoad(String Sobjtype) {
+            return calculateFLS(Sobjtype);
         }
 
         /**
